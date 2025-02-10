@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+table { border-collapse: collapse; width: 100%; }
+ol, li, ul { list-style: none; }
+a { color: #333; text-decoration: none; }
+address,em { font-style: normal; }
+caption,legend { display: none; }
+select,input,fieldset { border: 0; }
+html{ font-size: 62.5%;}.btn {
+    width: 433px;
+    padding: 5px 0;
+}
